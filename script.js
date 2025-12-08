@@ -23,7 +23,8 @@ const computerChoicer = () => {
 const choicesAbled = () => {
   rock.disabled = true;
   scissors.disabled = true;
-  paper.disabled = true;
+  paper.disabled = true; 
+  
 };
 
 const choicesDisabled = () => {
